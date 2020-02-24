@@ -1,0 +1,2 @@
+Please edit configuration/connection/logging settings in 'C:\\Users\\TheMesterDK\\git\\LifeGoalList\\migrations\\alembic.ini' before proceeding.
+
